@@ -1,6 +1,7 @@
 # RNA Architecture Underlies Discontinuous Transcription and Evolution of Coronavirus
 RNA Architecture Underlies Discontinuous Transcription and Evolution of Coronavirus
-Zi Wen1,2,3#, Lei Chen1,2,4#, Dehua Luo1,2,4#, Ju Sun1,2,4#, Liangrong Guo1,2,4, Yingxiang Deng1,2,4, Zhiyuan Huang2,3, Yuxiang Wang1,2,4, Ke Pan1,2,4, Fan Wang8, Shaobo Xiao1, Li Li2,3 and Dengguo Wei1,2,4,5,6,7
+
+Zi Wen#, Lei Chen#, Dehua Luo#, Ju Sun#, Liangrong Guo, Yingxiang Deng, Zhiyuan Huang, Yuxiang Wang, Ke Pan, Fan Wang*, Shaobo Xiao*, Li Li* and Dengguo Wei*
 
 Correspondence: fwang@mail.ccnu.edu.cn; vet@mail.hzau.edu.cn; li.li@mail.hzau.edu.cn; dgwei@mail.hzau.edu.cn
 
