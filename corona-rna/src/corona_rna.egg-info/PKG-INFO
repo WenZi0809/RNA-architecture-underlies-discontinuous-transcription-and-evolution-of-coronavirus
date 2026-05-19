@@ -1,0 +1,32 @@
+Metadata-Version: 2.4
+Name: corona-rna
+Version: 0.1.0
+Summary: This package is used for analyzing and visualizing data of viral transcriptomes and interaction data.
+Author-email: WenZi0809 <619182681@qq.com>
+Project-URL: Homepage, https://github.com/WenZi0809/RNA-architecture-underlies-discontinuous-transcription-and-evolution-of-coronavirus
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Scientific/Engineering :: Information Analysis
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: matplotlib
+Requires-Dist: brokenaxes
+
+# Related research
+RNA Architecture Underlies Discontinuous Transcription and Evolution of Coronavirus
+
+# Brief description
+This package contains the main analysis functions and plotting functions mentioned in the article. These functions provide analytical references for how to analyze transcriptome and interaction group data. And it can also be used to draw the same legends as those shown in the article.
+
+# Sample data
+Data can be available on CODE (https://webofgroup.cn/dgwei/hngene) and github (https://github.com/WenZi0809/RNA-architecture-underlies-discontinuous-transcription-and-evolution-of-coronavirus).
