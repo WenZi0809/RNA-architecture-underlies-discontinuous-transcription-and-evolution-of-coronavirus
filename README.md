@@ -5,6 +5,16 @@ The main analysis functions and plotting functions in the article have been pack
 ```python
 pip install corona-rna==0.1.0
 ```
+The processing pipeline for the third-generation sequencing data has been packaged as the nextflow framework.
+usage：
+```
+nextflow run main.nf \
+    refseq = "data/reference/NC_045512.2.fasta" \
+    fqdata = "data/fastq/SRR13089344.fastq" \
+    v_chr = "NC_045512.2" \
+    title = "sample1" \
+    outdir = "./results"
+```
 
 ## Project Description
 Here, using Jupyter, we demonstrated how to use these functions and also helped to reproduce the main findings in the article.
