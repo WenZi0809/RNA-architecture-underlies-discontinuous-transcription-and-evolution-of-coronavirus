@@ -5,7 +5,7 @@ The main analysis functions and plotting functions in the article have been pack
 ```python
 pip install corona-rna==0.1.0
 ```
-The processing pipeline for the third-generation sequencing data has been packaged as the nextflow framework.
+The processing pipeline Corona-mRNA for the third-generation sequencing data has been packaged as the nextflow framework.
 usage：
 ```
 nextflow run main.nf \
@@ -17,7 +17,7 @@ nextflow run main.nf \
 ```
 
 ## Project Description
-Here, using Jupyter, we demonstrated how to use these functions and also helped to reproduce the main findings in the article.
+Here, we use Jupyter to display how these functions are used and to help reproduce the main findings of the paper.
 
 ## Data available
 Data can be  available on CODE (https://webofgroup.cn/dgwei/hngene).
